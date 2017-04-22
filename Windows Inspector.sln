@@ -11,6 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{74474458
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A354995A-6E6C-4353-918C-7194567BAD30}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AA7ABE47-420C-4E5A-A405-17FCECEF0AFE}"
+	ProjectSection(SolutionItems) = preProject
+		Прогулка по окнам Windows -_ Форум на Исходниках.Ру.html = Прогулка по окнам Windows -_ Форум на Исходниках.Ру.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
